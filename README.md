@@ -8,7 +8,8 @@
 [![Unity](https://img.shields.io/badge/Unity-2019.1.0b5+-black?style=for-the-badge&logo=unity)](https://unity.com/)&nbsp;&nbsp;&nbsp;
 [![License: MIT](https://img.shields.io/badge/License-MIT-4B0082?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-Welcome! On this page, you'll find my Unity3D utility packages. To use them in your project, simply copy the Git links below and add them via:
+Welcome! On this page, you'll find my Unity3D utility packages. <br>
+To use them in your project, simply copy the Git links below and add them via:
 
 `Window -> Package Management -> Package Manager -> + -> Install package from git URL`
 
