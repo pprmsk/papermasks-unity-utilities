@@ -78,5 +78,9 @@ Package Creator/*
 !/Package\ Creator/Packages/UsefulAttributes/
 !/Package\ Creator/Packages/UsefulAttributes/**
 
+# Ignore manifest files in Packages folder
+/Package\ Creator/Packages/manifest.json
+/Package\ Creator/Packages/packages-lock.json
+
 # Keep .gitignore itself tracked
 !.gitignore
