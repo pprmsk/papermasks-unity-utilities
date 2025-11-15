@@ -15,12 +15,12 @@ To use them in your project, simply copy the Git links below and add them via:
 
 </div>
 
-## **Auto Scene Switcher Git Link**
+## **Scene Pilot Git Link**
 A custom window to switch scenes more easily. Uses path Assets/Scenes to automatically generate buttons and tabs for all scenes in your project.
 
-GIT LINK: **`https://github.com/pprmsk/papermasks-unity-utilities.git?path=AutoSceneSwitcher`**
+GIT LINK: **`https://github.com/pprmsk/papermasks-unity-utility-packages.git?path=Packages/ScenePilot`**
 
 ## **Useful Attributes Git Link**
 A collection of useful attributes to clean up your inspector and code more defensive.
 
-GIT LINK: **`https://github.com/pprmsk/papermasks-unity-utilities.git?path=UsefulAttributes`**
+GIT LINK: **`https://github.com/pprmsk/papermasks-unity-utility-packages.git?path=Packages/UsefulAttributes`**
